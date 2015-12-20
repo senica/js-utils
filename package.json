@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/senica/js-utils/issues"
   },
-  "homepage": "https://github.com/senica/js-utils#readme"
+  "homepage": "https://github.com/senica/js-utils#readme",
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.3.4"
+  }
 }
