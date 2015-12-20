@@ -1,0 +1,22 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "My small collection of js utils I've found or created for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senica/js-utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "Senica Gonzalez (senica@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senica/js-utils/issues"
+  },
+  "homepage": "https://github.com/senica/js-utils#readme"
+}
